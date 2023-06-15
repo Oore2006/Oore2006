@@ -1,4 +1,3 @@
-My first readme file
-my name is oluseyi goodness i am computer scientist learning at adeleke university 
-i am currently learning python 
-i hope to become cloud engineer 
+My name is Oluseyi Goodness I am Computer Scientist. I am running my Undergraduate Degree
+I am currently learning Python 
+I hope to become Cloud Engineer 
